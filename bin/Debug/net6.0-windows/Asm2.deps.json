@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Asm2/1.0.0": {
+        "dependencies": {
+          "ClassLibraryLightFactory": "1.0.0"
+        },
+        "runtime": {
+          "Asm2.dll": {}
+        }
+      },
+      "ClassLibraryLightFactory/1.0.0": {
+        "runtime": {
+          "ClassLibraryLightFactory.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Asm2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ClassLibraryLightFactory/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
